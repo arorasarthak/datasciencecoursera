@@ -1,8 +1,9 @@
 # Comments:
 # Used camelCasing naming convention 
 # 
+# inverseReg -- Contains the inverse of the matrix
 # 
-# makeCacheMatrix creates a list containing a function to
+# makeCacheMatrix() creates a list containing a function to do the following:
 # 1. set the value of the matrix -- setMatrix()
 # 2. get the value of the matrix -- getMatrix()
 # 3. set the value of inverse of the matrix -- setInverse()
